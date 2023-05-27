@@ -2,4 +2,4 @@
 
 Built using Tailwindcss
 
-Check it ou! - https://suxxvi.github.io/Airbnb-clone/
+Check it out! - https://suxxvi.github.io/Airbnb-clone/
